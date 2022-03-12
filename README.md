@@ -1,4 +1,7 @@
 # Sobre o projeto
+
+https://todo-list-app-react-typescript.herokuapp.com/
+
 Um projeto onde desenvolvi um gerenciador de lista de tarefas, onde é possível adicionar novas tarefas, riscar as tarefas já concluidas e também remover todas as tarefas
 
 ## Layout Web
